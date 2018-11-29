@@ -1,4 +1,5 @@
-# ulartangganusantara
+# ULAR TANGGA NUSANTARA
+
 # Untuk menjalankan Ular Tangga Nusantara kita perlu menginstall Python dan Pygame
 
 # Tata Cara bermain Ular Tangga Nusantara:
