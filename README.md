@@ -1,6 +1,6 @@
 # ULAR TANGGA NUSANTARA
 
-- Untuk menjalankan Ular Tangga Nusantara kita perlu menginstall **Python** dan **Pygame**
+## Untuk menjalankan Ular Tangga Nusantara kita perlu menginstall [Python 2.7](https://www.python.org/download/releases/2.7/) dan [Pygame](https://www.pygame.org/download.shtml)
 
 ## Tata Cara bermain Ular Tangga Nusantara:
 
