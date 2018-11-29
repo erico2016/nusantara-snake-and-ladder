@@ -1,7 +1,7 @@
 # ulartangganusantara
 # Untuk menjalankan Ular Tangga Nusantara kita perlu menginstall Python dan Pygame
 
-#Tata Cara bermain Ular Tangga Nusantara:
+# Tata Cara bermain Ular Tangga Nusantara:
 
 #	- 	Pertama pemain diminta untuk memilih akan bermain dengan dua pemain, tiga pemain, atau empat pemain.
 
