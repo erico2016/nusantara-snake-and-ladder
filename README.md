@@ -22,4 +22,14 @@
 
 -	Kemudian juga akan dicek apakah kotak tujuan sudah ditempati pemain lain atau belum, jika sudah ditempati maka pemain yang berada di kotak tersebut akan dipulangkan ke kotak mulai.
 
--	Hal ini akan diulang terus hingga salah satu dari pemain mencapai kotak selesai. 
+-	Hal ini akan diulang terus hingga salah satu dari pemain mencapai kotak selesai.
+
+## Beberapa Tampilan
+## Menu Utama
+<img width="1058" alt="Screenshot 2024-09-13 at 14 19 17" src="https://github.com/user-attachments/assets/c9520d0a-c5de-476d-b9e5-9bd44b73cd2c">
+
+## Isi Nama Pemain
+<img width="1065" alt="Screenshot 2024-09-13 at 14 19 36" src="https://github.com/user-attachments/assets/351483ea-0214-4672-afc4-05107cd04f1b">
+
+## Permainan
+<img width="1065" alt="Screenshot 2024-09-13 at 14 19 51" src="https://github.com/user-attachments/assets/6c786c32-162f-4096-837e-a649707ffa20">
