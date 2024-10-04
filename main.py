@@ -17,7 +17,7 @@ def setup_pygame():
     clock = pygame.time.Clock()
     pygame.mixer.music.load("asset/music/lagu1.mp3")
     pygame.mixer.music.set_endevent(pygame.constants.USEREVENT)
-    #pygame.mixer.music.play()
+    pygame.mixer.music.play()
     battle_sound = pygame.mixer.Sound("asset/music/battle.wav")
     snake_sound = pygame.mixer.Sound("asset/music/uler.wav")
     snake_sound1 = pygame.mixer.Sound("asset/music/uler1.ogg")
